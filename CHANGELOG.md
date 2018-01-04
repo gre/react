@@ -58,6 +58,7 @@
 
 * Support string values for the `capture` attribute. ([@maxschmeling](https://github.com/maxschmeling) in [#11424](https://github.com/facebook/react/pull/11424))
 
+
 ### React DOM Server
 
 * Don't freeze the `ReactDOMServer` public API. ([@travi](https://github.com/travi) in [#11531](https://github.com/facebook/react/pull/11531))
